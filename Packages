@@ -1,0 +1,31 @@
+Package: com.ulissesms.devrepos
+Name: Repository List
+Version: 1.2.2
+Architecture: iphoneos-arm
+Description: Adds essential repositories so they don’t need to be added manually. Private use only.
+Maintainer: ulissesms
+Author: ulissesms
+Section: Utilities
+MD5sum: 2ce05c2cfa61a45d5ad3891010fc6c96
+SHA1: bbe8ffade9ba6977e126851979adc818454e14e7
+SHA256: dc21fb042825ac62e734dec8c298d6a71dd2dd4c074af73c2b03fc71f62201b5
+Size: 948
+Filename: debs/com.ulissesms.devrepos_1.2.2_iphoneos-arm.deb
+Depiction: www.ulissesms.com.br/bangarang/depictions/?p=com.ulissesms.devrepos
+
+Package: com.tcrawford.ls-elemental
+Name: Elemental LS
+Version: 1.1.6
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Previously, LS Basic Clock, this very customizable clock will fit the wants and needs of anyone who desires simplicity.
+Maintainer: tcrawford <dev.tcrawford@gmail.com>
+Author: tcrawford <dev.tcrawford@gmail.com>
+Section: Themes (Lockscreen)
+MD5sum: b9df53f3eb8daad1b54730383f3ba085
+SHA1: 51f5ca4b344b8c68bb1e6f85c98ddf3d37e945c3
+SHA256: 1b036c3ddffa2e5940bd0475a7e1177f6404b1f9125fb5f43bda0c8d46b45dda
+Size: 301222
+Filename: debs/io.ulissesms.example.deb
+Depiction: www.ulissesms.com.br/bangarang/depictions/?p=com.tcrawford.ls-elemental
+

@@ -1,0 +1,8 @@
+Package: com.ulissesms.devrepos
+Name: Repository List
+Version: 1.2.2
+Architecture: iphoneos-arm
+Description: Adds essential repositories so they don’t need to be added manually. Private use only.
+Maintainer: ulissesms
+Author: ulissesms
+Section: Utilities

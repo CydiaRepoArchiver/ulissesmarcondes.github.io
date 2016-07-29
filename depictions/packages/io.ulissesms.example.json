@@ -1,0 +1,31 @@
+{
+	"name": "Example Package",
+	"package": "io.ulissesms.example",
+	"author": "ulissesms",
+	"version": "1.1.0",
+	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eget massa bibendum nunc eleifend congue et quis arcu. Praesent tincidunt consectetur malesuada. Sed consectetur a elit non lobortis. Vestibulum eget mollis nisl. Sed egestas mauris vel eros dictum, vitae pharetra tortor vulputate. Donec ac lectus id dui sodales euismod. Nullam sit amet turpis quis augue tincidunt sollicitudin non sed enim. Aenean vitae justo purus. Ut gravida, neque a iaculis congue, ante nisl condimentum orci, at pretium orci purus a nisi. Praesent at purus velit.",
+	"changelog": {
+		"1.0.0": [
+			"Initial Release"
+		],
+		"1.0.1": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+			"Duis eget massa bibendum nunc eleifend congue et quis arcu.",
+			"Praesent tincidunt consectetur malesuada.",
+			"Sed consectetur a elit non lobortis."
+		],
+		"1.1.0": [
+			"Duis eget massa bibendum nunc eleifend congue et quis arcu.",
+			"Sed consectetur a elit non lobortis."
+		]
+	},
+	"compatibility": {
+		"min-version": "7.0.1",
+		"max-version": "8.4"
+	},
+	"screenshots": {
+		"1.png": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"2.png": "Duis eget massa bibendum nunc eleifend congue et quis arcu.",
+		"3.png": "Praesent tincidunt consectetur malesuada."
+	}
+}
